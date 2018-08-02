@@ -1,1 +1,19 @@
 // Put all your JavaScript in this file!
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript Hello World</title>
+</head>
+
+
+<body>
+    <h1>A JavaScript Hello, World!</h1>
+
+    <script>
+    	console.log("Hello, World");
+
+    </script>
+</body>
+
+</html>
